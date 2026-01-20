@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function Home() {
   return (
@@ -16,18 +17,18 @@ export default function Home() {
             Nơi hương vị Gelato Ý gặp gỡ nông sản Việt Nam
           </p>
           <div className="flex gap-4 justify-center">
-            <a
-              href="/menu"
+            <Link
+              to="/menu"
               className="bg-pink-600 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-pink-700 transition"
             >
               Khám Phá Menu
-            </a>
-            <a
-              href="/artist"
+            </Link>
+            <Link
+              to="/artist"
               className="bg-white text-pink-600 px-8 py-4 rounded-full text-lg font-semibold border-2 border-pink-600 hover:bg-pink-50 transition"
             >
               Tạo Kem Của Bạn
-            </a>
+            </Link>
           </div>
         </div>
       </section>
@@ -72,12 +73,12 @@ export default function Home() {
           <p className="text-xl text-gray-700 mb-8">
             Khám phá hành trình từ nông trại Việt Nam đến Gelato Ý đích thực
           </p>
-          <a
-            href="/story"
+          <Link
+            to="/story"
             className="inline-block bg-pink-600 text-white px-8 py-4 rounded-full text-lg font-semibold hover:bg-pink-700 transition"
           >
             Đọc Câu Chuyện
-          </a>
+          </Link>
         </div>
       </section>
     </div>
