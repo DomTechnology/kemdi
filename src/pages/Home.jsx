@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import ImageSlider from "../components/ImageSlider";
 
 export default function Home() {
   return (
@@ -61,6 +62,21 @@ export default function Home() {
               Minh bạch từ trang trại đến thành phẩm
             </p>
           </div>
+        </div>
+      </section>
+
+      {/* Gallery Slider */}
+      <section className="py-20 px-4 bg-gray-50">
+        <div className="max-w-6xl mx-auto">
+          <div className="text-center mb-12">
+            <h2 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
+              Khám Phá Cửa Hàng
+            </h2>
+            <p className="text-xl text-gray-600">
+              Không gian nghệ thuật và những tác phẩm gelato độc đáo
+            </p>
+          </div>
+          <ImageSlider />
         </div>
       </section>
 
