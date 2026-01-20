@@ -9,7 +9,10 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <div className="flex items-center gap-3 mb-4">
-              <span className="text-4xl">🍨</span>
+              <img
+                className="group-hover:scale-110 transition-transform w-12 rounded-full"
+                src="/LOGO.png"
+              />
               <span className="text-2xl font-bold">Kem Đi</span>
             </div>
             <p className="text-gray-400">

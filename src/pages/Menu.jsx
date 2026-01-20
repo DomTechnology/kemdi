@@ -24,7 +24,7 @@ const gelatoFlavors = [
     category: "Seasonal",
     description: "Xoài Cát Hòa Lộc chín mọng từ Đồng Tháp",
     color: "from-orange-200 to-yellow-300",
-    image: mangoImg,
+    image: durianImg,
   },
   {
     id: 3,
@@ -32,7 +32,7 @@ const gelatoFlavors = [
     category: "Classic",
     description: "Nước dừa tươi từ vườn dừa Bến Tre",
     color: "from-white to-gray-100",
-    image: mangosteenImg,
+    image: durianImg,
   },
   {
     id: 4,
@@ -40,7 +40,7 @@ const gelatoFlavors = [
     category: "Seasonal",
     description: "Dâu tây tươi từ cao nguyên Đà Lạt",
     color: "from-pink-200 to-red-300",
-    image: berryImg,
+    image: durianImg,
   },
   {
     id: 5,
@@ -48,7 +48,7 @@ const gelatoFlavors = [
     category: "Classic",
     description: "Robusta nguyên chất từ Tây Nguyên",
     color: "from-amber-700 to-brown-900",
-    image: tomatoImg,
+    image: durianImg,
   },
   {
     id: 6,
@@ -56,7 +56,7 @@ const gelatoFlavors = [
     category: "Seasonal",
     description: "Thanh long ruột đỏ Bình Thuận",
     color: "from-fuchsia-200 to-pink-400",
-    image: dragonFruitImg,
+    image: durianImg,
   },
   {
     id: 7,
@@ -64,7 +64,7 @@ const gelatoFlavors = [
     category: "Classic",
     description: "Bơ 034 thơm béo từ Đắk Lắk",
     color: "from-green-300 to-lime-400",
-    image: mangosteenImg,
+    image: durianImg,
   },
   {
     id: 8,
@@ -72,7 +72,7 @@ const gelatoFlavors = [
     category: "Premium",
     description: "Sữa dê tươi nguyên chất từ Mộc Châu",
     color: "from-slate-100 to-stone-200",
-    image: tomatoImg,
+    image: durianImg,
   },
   {
     id: 9,
@@ -80,7 +80,7 @@ const gelatoFlavors = [
     category: "Classic",
     description: "Cam canh Vinh - đặc sản Nghệ An",
     color: "from-orange-300 to-orange-500",
-    image: tomatoImg,
+    image: durianImg,
   },
   {
     id: 10,
@@ -88,7 +88,7 @@ const gelatoFlavors = [
     category: "Seasonal",
     description: "Nhãn lồng Hưng Yên thơm ngọt",
     color: "from-amber-100 to-yellow-200",
-    image: berryImg,
+    image: durianImg,
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ const gelatoFlavors = [
     category: "Seasonal",
     description: "Vải thiều chín mọng Lục Ngạn",
     color: "from-red-200 to-rose-400",
-    image: berryImg,
+    image: durianImg,
   },
   {
     id: 12,
@@ -104,7 +104,7 @@ const gelatoFlavors = [
     category: "Seasonal",
     description: "Dưa hấu dứa vàng Gia Lai",
     color: "from-red-300 to-pink-400",
-    image: pineappleImg,
+    image: durianImg,
   },
   {
     id: 13,
@@ -112,7 +112,7 @@ const gelatoFlavors = [
     category: "Premium",
     description: "Cacao Bến Tre 70% hảo hạng",
     color: "from-amber-800 to-stone-900",
-    image: tomatoImg,
+    image: durianImg,
   },
   {
     id: 14,
@@ -120,7 +120,7 @@ const gelatoFlavors = [
     category: "Premium",
     description: "Matcha hữu cơ từ Đà Lạt",
     color: "from-green-400 to-emerald-600",
-    image: mangosteenImg,
+    image: durianImg,
   },
   {
     id: 15,
@@ -128,7 +128,7 @@ const gelatoFlavors = [
     category: "Premium",
     description: "Mật ong nguyên chất từ rừng U Minh",
     color: "from-amber-300 to-yellow-600",
-    image: pineappleImg,
+    image: durianImg,
   },
   {
     id: 16,
@@ -136,7 +136,7 @@ const gelatoFlavors = [
     category: "Classic",
     description: "Sữa bò tươi từ nông trại Đà Lạt",
     color: "from-blue-50 to-sky-100",
-    image: mangoImg,
+    image: durianImg,
   },
   {
     id: 17,
