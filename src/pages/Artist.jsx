@@ -34,15 +34,24 @@ const letters = [
 ];
 
 const flavors = [
-  { name: "Sầu Riêng", color: "bg-yellow-400" },
-  { name: "Xoài", color: "bg-orange-300" },
-  { name: "Dừa", color: "bg-gray-100" },
-  { name: "Dâu", color: "bg-red-300" },
-  { name: "Cà Phê", color: "bg-amber-800" },
-  { name: "Thanh Long", color: "bg-fuchsia-300" },
-  { name: "Bơ", color: "bg-green-400" },
-  { name: "Chocolate", color: "bg-stone-900" },
-  { name: "Matcha", color: "bg-emerald-500" },
+  { name: "Sầu Riêng Cái Mơn", color: "bg-yellow-400" },
+  { name: "Xoài Cát Hòa Lộc", color: "bg-orange-300" },
+  { name: "Măng Cụt Lái Thiêu", color: "bg-gray-100" },
+  { name: "Mít Tố Nữ", color: "bg-red-300" },
+  { name: "Cam Vinh", color: "bg-amber-700" },
+  { name: "Thanh Long Ruột Đỏ", color: "bg-fuchsia-300" },
+  { name: "Dưa Hấu Đỏ", color: "bg-green-400" },
+  { name: "Vú Sữa Lò Rèn", color: "bg-stone-200" },
+  { name: "Đu Đủ Chín", color: "bg-orange-500" },
+  { name: "Ổi Nữ Hoàng", color: "bg-amber-100" },
+  { name: "Dưa Lưới Ngọt", color: "bg-rose-400" },
+  { name: "Chanh Dây", color: "bg-pink-400" },
+  { name: "Khế Chua Ngọt", color: "bg-amber-800" },
+  { name: "Chanh mê ly", color: "bg-emerald-600" },
+  { name: "Dừa Bến Tre", color: "bg-yellow-600" },
+  { name: "Amazing Melon", color: "bg-emerald-300" },
+  { name: "Mangosteen Delight", color: "bg-purple-300" },
+  { name: "Papaya Paradise", color: "bg-orange-300" },
 ];
 
 export default function Artist() {
@@ -92,7 +101,7 @@ export default function Artist() {
             Tạo hình chữ độc đáo với Gelato - Sáng tạo không giới hạn
           </p>
           <p className="text-md text-gray-600 mt-2">
-            Chọn tối đa 10 ký tự và phối hợp hương vị cho từng chữ
+            Hãy chọn vị cho từng ký tự lần lượt nhé!
           </p>
         </div>
 

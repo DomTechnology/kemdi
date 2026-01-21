@@ -159,7 +159,8 @@ const gelatoFlavors = [
     id: 17,
     name: "Amazing Melon",
     category: "Signature",
-    description: "Mo ta",
+    description:
+      "Đánh thức mọi giác quan với hương thơm tinh tế và vị ngọt thanh tao từ dưa lưới thượng hạng.",
     color: "from-lime-200 to-emerald-300",
     image: melonImg,
   },
@@ -167,7 +168,8 @@ const gelatoFlavors = [
     id: 18,
     name: "Mangosteen Delight",
     category: "Signature",
-    description: "Mo ta",
+    description:
+      "Trải nghiệm sự giao thoa hoàn hảo giữa vị chua thanh và ngọt dịu của nữ hoàng trái cây măng cụt Lái Thiêu.",
     color: "from-purple-200 to-pink-300",
     image: mangosteenDelightImg,
   },
@@ -175,7 +177,8 @@ const gelatoFlavors = [
     id: 19,
     name: "Papaya Paradise",
     category: "Signature",
-    description: "Mo ta",
+    description:
+      "Đắm mình trong thiên đường nhiệt đới với sắc vàng rực rỡ và vị ngọt lành từ đu đủ chín cây.",
     color: "from-amber-200 to-orange-300",
     image: papayaImg,
   },

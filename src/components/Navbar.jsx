@@ -24,7 +24,7 @@ export default function Navbar() {
               src="/LOGO.png"
             />
             <img
-              className="group-hover:scale-110 transition-transform h-10 rounded-full pt-1"
+              className="group-hover:scale-110 transition-transform h-10 rounded-full// pt-1"
               src="/KEMDI.png"
             />
           </Link>
