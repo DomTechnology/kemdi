@@ -10,7 +10,7 @@ export default function Home() {
         {/* Video Background */}
         <video
           className="absolute inset-0 w-full h-full object-cover opacity-50"
-          src="/images/intro.mov"
+          src="/intro.mov"
           autoPlay
           loop
           muted
